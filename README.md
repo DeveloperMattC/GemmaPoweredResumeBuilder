@@ -90,3 +90,16 @@ ng build
 
 The compiled build artifacts will be stored in the `dist/` directory.
 
+CodeLab Next Steps:
+
+Have it running and are this far along? Wonderful! 
+
+Now time to make it your own and enhance it in various ways. At the end of the lab you can share with the group how you built upon and improved this.
+
+Some ideas: 
+-Better design
+-Better AI guidelines and outpus
+-Make it improve more things about a resume
+-Make a spin off of it (message improvement system, resume advice giver, etc)
+-Make it analyze pdfs
+
