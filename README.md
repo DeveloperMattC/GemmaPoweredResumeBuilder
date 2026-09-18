@@ -90,20 +90,3 @@ ng build
 
 The compiled build artifacts will be stored in the `dist/` directory.
 
----
-
-## Workspace Specifications (PersonalAISpecs)
-
-This project contains persistent guidelines designed to keep AI assistants in sync with our development workflows. Inside the `PersonalAISpecs/` folder you will find:
-
-- **Workflows/**: Custom pipeline rules for Angular development (`angular-dev-flow.md`) and CI/CD PR babysitting workflows (`github-ci-flow.md`).
-- **Behaviors/**: Guidelines for AI logic and verification protocols (`interaction-style.md`).
-- **Rules/**: Code hygiene and strict communication boundaries (`angular-and-general-rules.md`).
-- **Personalities/**: Customized virtual personas, featuring `jarvis-personality.md` which is polite, formal, and references all specifications.
-- **ExternalSkill/**: Built-in context integrating the official [Angular Team Agent Skills](https://angular.dev/ai/agent-skills).
-
----
-
-## License
-
-This project is licensed under the MIT License.
